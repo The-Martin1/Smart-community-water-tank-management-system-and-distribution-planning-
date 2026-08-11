@@ -1,0 +1,2 @@
+# Smart-community-water-tank-management-system-and-distribution-planning-
+Ultrasonic sensors sit inside the main community water tanks to track water levels in real-time. The main tank connects to local neighborhoods via motorized pipes and electronic valves (solenoids). usign ESP32 controller  and a servo motor  for  opening and closing valves automatically based on scheduled distribution times or tank levels.
